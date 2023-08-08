@@ -32,5 +32,4 @@ spec:
               version: "2022.4.1-1"
               replicas: 2
               storage:
-                class: ocs-storagecluster-cephfs
-                
+                class: managed-nfs-storage
