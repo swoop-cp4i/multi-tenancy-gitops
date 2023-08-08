@@ -32,4 +32,4 @@ spec:
               version: "2022.4.1"
               replicas: 2
               storage:
-                class: managed-nfs-storage
+                class: ibmc-file-gold-gid
