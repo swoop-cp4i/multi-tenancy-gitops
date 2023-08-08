@@ -27,9 +27,9 @@ spec:
             spec:
               license:
                 accept: true
-                license: L-RJON-CJR2RX
-              mqDashboard: false
-              version: "2022.4.1"
+                license: L-YBXJ-ADJNSM
+              mqDashboard: true
+              version: "2023.2.1"
               replicas: 2
               storage:
                 class: ibmc-file-gold-gid
